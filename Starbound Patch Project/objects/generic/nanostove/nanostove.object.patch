@@ -1,0 +1,12 @@
+[
+  [{
+      "op": "test",
+      "path": "/description",
+      "value": "Provides exceptional heat and a great for cooking outdoors."
+    }, {
+      "op": "replace",
+      "path": "/description",
+      "value": "Provides exceptional heat and a great place for cooking outdoors."
+    }
+  ]
+]
