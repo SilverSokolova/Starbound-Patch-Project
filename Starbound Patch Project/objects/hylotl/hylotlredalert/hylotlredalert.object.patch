@@ -1,0 +1,12 @@
+[
+  [{
+      "op": "test",
+      "path": "/description",
+      "value": "A bright blue alarm"
+    }, {
+      "op": "replace",
+      "path": "/description",
+      "value": "A bright blue alarm."
+    }
+  ]
+]
